@@ -155,7 +155,7 @@
 
 ## Spring Data JPA
 * JPA stands for Java Persistance API
-* This API came from Java EE 6 but Spring made their own version of it
+* This API came from Java EE 6
 * Essentially it will have pre-made classes and interfaces that will make constructing a class that interacts with a database seamless
 * Needs `application.yml` file to know what database to connect to and what type of database engine it uses
 ### Spring JPA Repository
