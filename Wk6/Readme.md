@@ -17,7 +17,7 @@
 	* Add github url
 	* Everything else default (assuming your repo is normal)
 8. Add webhook to github
-	* <url>:8080/github-webhook/
+	* url:8080/github-webhook/
 9. Configure project to add jenkins file
 	* I would start something simple just to see if any pushes is detected by jenkins
 10. Keep checking jenkins console log output to see if everything is working as intended
