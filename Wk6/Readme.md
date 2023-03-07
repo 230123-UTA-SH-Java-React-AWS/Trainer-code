@@ -5,7 +5,6 @@
 	* https://www.jenkins.io/doc/book/installing/linux/
 	* jenkins=2.346.3
 3. Add port 8080 to vm
-	* Also add db of the new ip
 4. Locate secrets password
 	* chmod og=rx secrets
 	* r means read
